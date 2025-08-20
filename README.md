@@ -1,26 +1,21 @@
 ## Hi there 👋
 
-<!--
+
 **RiddhiKapoor5501/RiddhiKapoor5501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💫 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># 💫 About Me:
+- 🔭 I’m currently working on - Emotionally Aware Multi-Agent Architecture and Development Of Edge Devices at IIT-Roorkee
+- 🌱 I’m currently learning - AI Agents
+- 👯 I’m looking to collaborate on - Research Projects
+- 🤔 I’m looking for help with - My Ongoing Research
+- 💬 Ask me about - Going on a Trip
+- 📫 How to reach me: - riddhikapoor999@gmail.com
+- 😄 Pronouns: - She/Her
+- ⚡ Fun fact: - An interview is a conversation between two liars.
 
-- 🔭 Emotionally Aware Multi-Agent Architecture 
-- 🌱 AI Agents
-- 👯 Research Projects
-- 🤔 My Ongoing Research
-- 💬 Going on a Trip
-- ⚡ An interview is a conversation between two liars.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/riddhi-kapoor-556966rk) 
