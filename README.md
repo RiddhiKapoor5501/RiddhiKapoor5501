@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --># 💫 About Me:
 
-- 🔭 NLP and Projects related to Analysis
-- 🌱 Data Structures and CP
-- 👯 Development Projects
-- 🤔 Everything related to Placements
+- 🔭 Emotionally Aware Multi-Agent Architecture 
+- 🌱 AI Agents
+- 👯 Research Projects
+- 🤔 My Ongoing Research
 - 💬 Going on a Trip
-- ⚡ Interview is a conversation between Two-liars
+- ⚡ An interview is a conversation between two liars.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/riddhi-kapoor-556966rk) 
