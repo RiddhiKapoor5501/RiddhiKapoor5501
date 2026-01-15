@@ -5,14 +5,14 @@
 
 💫 About Me:
 
-- 🔭 I’m currently working on - Emotionally Aware Multi-Agent Architecture and Development Of Edge Devices at IIT-Roorkee
+- 🔭 I’m currently working on - Neuro-symbolic AI and Multi-agent Orchestration at AI Institute, University of South Carolina
 - 🌱 I’m currently learning - AI Agents
 - 👯 I’m looking to collaborate on - Research Projects
 - 🤔 I’m looking for help with - My Ongoing Research
 - 💬 Ask me about - Going on a Trip
-- 📫 How to reach me: - riddhikapoor999@gmail.com
+- 📫 How to reach me: - rkapoor2799@gmail.com
 - 😄 Pronouns: - She/Her
-- ⚡ Fun fact: - An interview is a conversation between two liars.
+- ⚡ Me Fact: - I secretly hate coffee and am a chai person for life.
 
 
 
